@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pola Ashraf Amin
+# Hi, I'm Pola Ashraf Amin
 
 ### Graphic Designer • UI/UX Designer • Frontend Developer
 
@@ -6,33 +6,33 @@ I help startups and businesses improve their **user experience and interfaces** 
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 - Design visually compelling interfaces
 - Craft user-centered UX flows
 - Build responsive and scalable frontend applications
 
 ---
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 
-### 🎨 Design
+###  Design
 - Adobe Photoshop  
 - Adobe Illustrator  
 - UI/UX Design with **Figma**
 
-### 💻 Frontend Development
+###  Frontend Development
 - React.js  
 - Modern HTML, CSS, and JavaScript  
 - Component-based UI development
 
 ---
 
-## ⭐ What Makes Me Different?
+##  What Makes Me Different?
 I combine **design + UI/UX + frontend development**, allowing companies to get a **complete product solution** without needing to hire multiple specialists.
 
 ---
 
-## 💼 Opportunities
+##  Opportunities
 - Full-time roles  
 - Internships  
 - Freelance projects  
@@ -41,7 +41,7 @@ I’m always open to exciting collaborations and new challenges.
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **Pola.A.Amin@outlook.com**
+## Let’s Connect
+- Email: **Pola.A.Amin@outlook.com**
 
 Feel free to reach out anytime!

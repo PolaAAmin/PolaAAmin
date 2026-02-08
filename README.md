@@ -43,5 +43,7 @@ I’m always open to exciting collaborations and new challenges.
 
 ## Let’s Connect
 - Email: **Pola.A.Amin@outlook.com**
+- LinkedIn: **linkedin.com/in/pola-a-amin/**
+- Behance: **behance.net/pola-a-amin**
 
 Feel free to reach out anytime!

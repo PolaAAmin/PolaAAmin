@@ -1,48 +1,65 @@
-# Hi, I'm Pola Ashraf Amin  
-### Graphic Designer • UI/UX Designer • Frontend Developer
+# Hi, I'm Pola Ashraf 👋
 
-I help startups and businesses improve their **user experience and interfaces** using strong visuals, thoughtful UX, and clean, modern frontend code.
-
----
-
-## What I Do
-- Design visually compelling interfaces  
-- Craft user-centered UX flows  
-- Build responsive and scalable frontend applications  
+💻 React Frontend Developer  
+🎓 Senior Computer Science Student  
+☁️ AWS Cloud Learner  
 
 ---
 
-## Skills & Tools
+## 🚀 About Me
 
-### Design
-- Adobe Photoshop  
-- Adobe Illustrator  
-- UI/UX Design with Figma  
+I’m a frontend developer specializing in **React**, focused on building scalable and high-performance web applications.
 
-### Frontend Development
-- React.js  
-- Modern HTML, CSS, and JavaScript  
-- Component-based UI development  
+I enjoy working with modern JavaScript, integrating APIs, and creating responsive interfaces that deliver smooth user experiences across devices.
+
+Currently, I’m expanding my knowledge in **cloud computing (AWS)** to better understand how applications are deployed and scaled in real-world environments.
 
 ---
 
-## What Makes Me Different?
-I combine **design + UI/UX + frontend development**, allowing companies to get a **complete product solution** without needing to hire multiple specialists.
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+**Tools & Concepts**
+- Git & GitHub
+- REST APIs
+- Responsive Design
+
+**Currently Learning**
+- AWS Cloud (Compute, Storage, Architecture Basics)
 
 ---
 
-## Opportunities
-- Full-time roles  
-- Internships  
-- Freelance projects  
+## 📌 Featured Projects
 
-I’m always open to exciting collaborations and new challenges.
+### 🔹 React Web Applications
+- Built responsive and dynamic interfaces using React
+- Implemented component-based architecture
+- Integrated external APIs for real-time data
+
+### 🔹 Frontend Development Projects
+- Developed clean and maintainable UI components
+- Focused on performance and responsiveness
 
 ---
 
-## Let’s Connect
-- Email: **Pola.A.Amin@outlook.com**  
-- LinkedIn: [linkedin.com/in/pola-a-amin](https://www.linkedin.com/in/pola-a-amin/)  
-- Behance: [behance.net/pola-a-amin](https://www.behance.net/pola-a-amin)  
+## 🎯 Goals
 
-Feel free to reach out anytime!
+- Become a highly skilled **React Developer**
+- Gain strong expertise in **Cloud (AWS)**
+- Build scalable, production-ready applications
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: Pola.A.Amin@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pola-a-amin  
+- 🎨 Portfolio: https://www.behance.net/pola-a-amin  
+
+---
+
+⭐ Always open to internships, junior roles, and freelance opportunities.
